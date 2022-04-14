@@ -8,9 +8,9 @@ return [
         'other' => ['id' => 'other', 'value' => 'Khác'],
     ],
     'marital' => [
-        'single' => ['id' => 'male', 'value' => 'Độc thân'],
-        'married' => ['id' => 'male', 'value' => 'Đã kết hôn'],
-        'other' => ['id' => 'male', 'value' => 'Khác'],
+        'single' => ['id' => 1, 'value' => 'Độc thân'],
+        'married' => ['id' => 2, 'value' => 'Đã kết hôn'],
+        'other' => ['id' => 3, 'value' => 'Khác'],
     ],
 
     'activity_type' => [
